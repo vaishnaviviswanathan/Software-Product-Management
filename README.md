@@ -2,9 +2,8 @@
 Have all the final presentations from the Software Product Management Certification Course, UW attached in this github 
 
 
-Online Grocery Product  
+<h2> Online Grocery Product </h2>  
 
-<hr></hr>
 
 This project was worked on as a part of the certification program at UW for 9 months from product proposal to shipping the product by collaborating with a team of 5 members from companies working in management  
 
